@@ -9,10 +9,10 @@ def isPalindrome(s):
     return False
   
 
-s = "bumtaratarabum"
+s = "kajak"
 odp = isPalindrome(s) 
   
-if odp == True: 
+if odp: 
     print("Tak") 
 else: 
     print("Nie") 
